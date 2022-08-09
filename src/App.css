@@ -1,0 +1,11 @@
+.inbox{
+  background-color: rgb(98, 105, 105);
+  padding: 15px;
+  color: #fff;
+}
+
+.outbox{
+  background-color: rgb(127, 133, 65);
+  padding: 15px;
+  color: #fff;
+}
